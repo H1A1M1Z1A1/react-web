@@ -19,7 +19,7 @@ const App = () => {
       <Hero/>
       <div className="container">
         <Title 
-        subTitle='OUR PROGRAM'
+        subTitle='My PROGRAM'
         title='Skills'
         />
       <Programs/>

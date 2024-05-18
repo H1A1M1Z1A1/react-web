@@ -12,7 +12,7 @@ const About = () => {
 
         </div>
         <div className="about-right">
-            <h3>ABOUT UNIVERSITY</h3>
+            <h3></h3>
             <br />
             <h2>Experience</h2>
             <h4 className='text-blue-500'>Software Developer (Mega Infomatics)</h4>

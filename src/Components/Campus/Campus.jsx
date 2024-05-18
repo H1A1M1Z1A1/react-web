@@ -45,7 +45,7 @@ const Campus = () => {
         <img src={gallery_3} alt="" />
         <img src={gallery_4} alt="" /> */}
       </div>
-      <button className='btn dark-btn'>See more here <img src={white_arrow} alt="" /></button>
+      <a href="https://github.com/H1A1M1Z1A1/"><button className='btn dark-btn'>See more here <img src={white_arrow} alt="" /></button></a>
     </div>
   )
 }
