@@ -15,7 +15,7 @@ const About = () => {
             <h3>ABOUT UNIVERSITY</h3>
             <br />
             <h2>Experience</h2>
-            <h4>Software Developer (Mega Infomatics)</h4>
+            <h4 className='text-blue-500'>Software Developer (Mega Infomatics)</h4>
             <p>May 2023 -  May 2024</p>
             <hr />
             <p>Worked on the development of a browser-based application using React  and javaScript resulting in a 20% increase in user engagement. Improved application performance by optimizing REST API calls and reducing load times resulting in a 15% increase in page speed</p>
@@ -36,7 +36,7 @@ const About = () => {
 </ul>
 </p>
 <br />
-<h4>Software Developer (Reflexion.AI)</h4>
+<h4 className='text-blue-500'>Software Developer (Reflexion.AI)</h4>
 <p>April 2022 -April 2023</p>
             <hr />
 <p>Worked on a large-scale web application using React  resulting in a 30% increase in user satisfaction. Developed and maintained backend services using Python and SQL resulting in a 40% reduction in downtime</p><p>
