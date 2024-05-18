@@ -29,11 +29,11 @@ const App = () => {
         title='Project (Campus)'
         />
         <Campus/>
-        <Title 
+        {/* <Title 
         subTitle='Testimonial'
         title='What Student says'
         />
-        <Testimonials/>
+        <Testimonials/> */}
         <Title 
         subTitle='Contact Us'
         title='Get in Touch'
