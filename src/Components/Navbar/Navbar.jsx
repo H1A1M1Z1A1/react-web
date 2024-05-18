@@ -20,7 +20,7 @@ const [mobileMenu,setMobileMenu]=useState(false)
     })
   },[]);
   return (
-    <nav className={`container ${sticky?'dark-nav':''} `}>
+    <nav className={`${sticky?'dark-nav':''} `}>
 
       <img src={logo} alt="" className='logo' />
       <p>Hamza</p>
