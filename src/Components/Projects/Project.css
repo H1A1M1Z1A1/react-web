@@ -1,0 +1,45 @@
+.project{
+    margin: 8px auto ;
+    width: 90%;
+    text-align: center;
+}
+
+.gallery{
+    display: grid;
+    align-items: center;
+    justify-content: space-between;
+    /* margin-bottom: 40px; */
+    grid-template-columns: auto auto;
+    gap: 40px;
+}
+
+.gallery a img{
+    width: 89%;
+    border-radius: 10px;
+    height: 300px;
+    border-color: black;
+    outline: 5px;
+}
+.infinite{
+    width: 500px;
+}
+
+.form{
+    margin: 20px 70px 20px 0;
+    padding: 5px;
+}
+.form:hover{
+    border: rgb(62, 58, 58) solid 2px;
+}
+
+/* MEDIA QUERY */
+
+@media (max-width:800px){
+    .gallery{
+        flex-wrap: wrap;
+    }
+    .gallery img{
+        width: 48%;
+        margin-bottom:25px  ;
+    }
+}

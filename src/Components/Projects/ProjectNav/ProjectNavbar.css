@@ -1,0 +1,14 @@
+.projectNav{
+background-color: rgb(255, 255, 255);
+height: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+
+/* margin: 0 auto; */
+
+}
+.projectNav p{
+margin: 10px;
+}
